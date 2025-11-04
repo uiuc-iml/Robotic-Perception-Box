@@ -1,9 +1,7 @@
 # Perception Box
 ## Perception Box Overview
 
-The **Perception Box** is an integrated framework for real-time visual-inertial SLAM, 3D semantic mapping, and indoor navigation — designed to make advanced perception algorithms as easy to use as a Python API call.
-
-Complex spatial understanding tasks often require robotics developers and researchers to manually install, build, and configure multiple libraries and algorithms from scratch. The Perception Box removes this barrier by packaging 3D mapping, semantic segmentation, and navigation algorithms into an accessible, modular system with a simple, consistent interface.
+The **Perception Box** is an integrated framework for real-time visual-inertial SLAM and 3D semantic mapping.
 
 This project lowers the entry barrier for deploying modern robotic perception capabilities on embedded systems like the NVIDIA Jetson, as well as standard Ubuntu desktops. By exposing a clear XML-RPC and Python API, it allows anyone to run live SLAM, stream labeled 3D maps, and control mapping tasks remotely — without the overhead of deep low-level integration.
 
